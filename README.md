@@ -1,6 +1,6 @@
 # Global Export Compliance Report
 
-![Compliance Image]()
+![Compliance Image](https://github.com/SajalVats/Photo/blob/main/Compliance%20Image_GitHub.jpg)
 
 ## Overview
 This project involves the creation of a detailed export compliance report for carpets and other floor coverings (HS Code 570232), with a focus on exports from India to Switzerland. The report was developed as part of the MBA-IB 2022-24 program at the Indian Institute of Foreign Trade, New Delhi.
